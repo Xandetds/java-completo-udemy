@@ -1,0 +1,38 @@
+# Compilados Java
+*.class
+
+# Logs
+*.log
+
+# Pacotes
+*.jar
+*.war
+*.ear
+
+# IDEs e ferramentas
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.settings/
+.project
+.classpath
+bin/
+
+# IntelliJ
+out/
+
+# Maven
+target/
+.mvn/
+
+# Gradle
+.gradle/
+build/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
