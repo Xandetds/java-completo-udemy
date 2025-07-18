@@ -3,11 +3,11 @@ public class exercicio03 {
         byte a = 10;
         int b = a + 5;
 
-        System.out.println("Valor de a = " + a);
+        System.out.println("Valor de a + 5 = " + b);
 
         int c = 10;
         float d = 1.5f;
-        float e = a*b;
+        float e = c*d;
 
         System.out.println("Valor de c vezes d = " + e);
 

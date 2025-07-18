@@ -11,7 +11,7 @@ public class exercicio06 {
 
         var soma = a + b;
         var multiplicacao = f * d;
-        var subtracao = b - a;
+        var subtracao = g - a;
         var divisao = e / f;
         System.out.println("O char é: " + c);
         System.out.println("A Soma, Multiplicação, Subtração e Divisão São respectivamente: "
