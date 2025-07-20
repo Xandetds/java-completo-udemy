@@ -1,53 +1,62 @@
 # Java Completo - Udemy
 
-![Linguagem](https://img.shields.io/badge/Linguagem-Java-red?logo=java)
-![Status](https://img.shields.io/badge/Progresso-Em%20Andamento-yellow)
+[![Linguagem](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+&nbsp;
+[![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge)]()
+&nbsp;
+[![Curso](https://img.shields.io/badge/Udemy-Java%20Completo-blueviolet?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/curso-de-java-para-iniciantes-com-projetos/?couponCode=PMNVD2025)
 
-Repositório com os **exercícios e projetos práticos** do curso **Java Completo** da Udemy.  
-
-Ao longo do curso, serão abordados desde os fundamentos até aplicações modernas com Java, incluindo:
-
-✅ **Programar em Java do zero**, com explicações claras e passo a passo  
-✅ **Entender os conceitos essenciais de lógica de programação**  
-✅ **Criar aplicações desktop** com janelas, botões e formulários (JavaFX)  
-✅ **Aprender orientação a objetos (POO)** de forma prática  
-✅ **Usar recursos modernos do Java** de forma simples e objetiva  
-✅ **Desenvolver APIs REST com Spring Boot**  
-✅ **Conectar aplicações Java a bancos de dados** (JDBC, JPA, Hibernate)  
-✅ **Construir um sistema para consulta de dados climáticos em tempo real**  
-✅ **Aplicar programação funcional em Java**  
-✅ **Trabalhar com 11 projetos completos para fixar o aprendizado**  
+📚 Repositório com os **exercícios e projetos práticos** do curso **Java Completo** da Udemy.
 
 ---
 
-## 📚 Estrutura do Repositório
+## 📌 Conteúdo do Curso
 
-Cada pasta será organizada por módulo/tema do curso, contendo:
-- Exemplos do conteúdo apresentado
-- Exercícios resolvidos
-- Projetos práticos desenvolvidos ao longo do curso
+Durante o curso, são abordados tópicos que vão dos fundamentos ao desenvolvimento de aplicações modernas em Java:
 
----
-
-## 🚀 Tecnologias e Ferramentas
-- **Java (versão utilizada no curso)**
-- **JavaFX, JDBC, Hibernate, JPA**
-- **Spring Boot para APIs REST**
-- IDEs recomendadas: IntelliJ IDEA, Eclipse ou STS
-
----
-
-## 🏗️ Objetivo
-
-Consolidar o aprendizado de Java desde o básico até desenvolvimento de sistemas completos, com exemplos práticos e projetos reais.
+- Programar em Java do zero com explicações passo a passo  
+- Entender os principais conceitos de lógica de programação  
+- Criar aplicações desktop com JavaFX (botões, janelas, formulários)  
+- Aprender orientação a objetos (POO) na prática  
+- Utilizar recursos modernos da linguagem Java  
+- Desenvolver APIs REST com Spring Boot  
+- Conectar aplicações Java a bancos de dados com JDBC, JPA e Hibernate  
+- Criar um sistema de consulta de dados climáticos em tempo real  
+- Aplicar programação funcional com Java  
+- Trabalhar com 11 projetos completos ao longo do curso  
 
 ---
 
-## 📜 Certificado
+## 📁 Estrutura do Repositório
 
-Assim que o curso for concluído, o **certificado de conclusão** será adicionado aqui. ✅
+Cada pasta é organizada por módulo/tema do curso, contendo:
+
+- Exemplos de código utilizados nas aulas  
+- Exercícios resolvidos  
+- Projetos práticos desenvolvidos com base no conteúdo aprendido  
 
 ---
 
-💡 **Curso:** [Java para Iniciantes com Projetos - Udemy](https://www.udemy.com/course/curso-de-java-para-iniciantes-com-projetos/?couponCode=PMNVD2025)  
-👨‍💻 **Autor do Repositório:** Alexandre Tibes da Silva
+## 🔧 Tecnologias e Ferramentas
+
+- Linguagem: Java  
+- Bibliotecas e frameworks: JavaFX, Spring Boot, JDBC, JPA, Hibernate
+
+---
+
+## 🎯 Objetivo
+
+Consolidar o aprendizado de Java com uma abordagem prática e progressiva, passando dos conceitos básicos até o desenvolvimento de sistemas completos com boas práticas e tecnologias modernas.
+
+---
+
+## 📄 Certificado
+
+O curso ainda está em andamento. Assim que concluído, o certificado de conclusão será adicionado aqui.
+
+---
+
+## 👤 Autor
+
+**Alexandre Tibes da Silva**  
+🔗 [Curso na Udemy](https://www.udemy.com/course/curso-de-java-para-iniciantes-com-projetos/?couponCode=PMNVD2025)
