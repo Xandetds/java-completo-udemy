@@ -1,3 +1,4 @@
+package poo.exerciciosconstrutor;
 class Funcionario {
     
     String nome;

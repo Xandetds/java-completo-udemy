@@ -1,3 +1,4 @@
+package poo.exerciciosconstrutor;
 class Bolo {
     int quantidadeAcucar = 100;
     //como se fosse a quantidade default
