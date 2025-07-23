@@ -1,3 +1,4 @@
+package Fundamentos.exercicios;
 public class exercicio12 {
     public static void main(String[] args) {
         int mes = 6;

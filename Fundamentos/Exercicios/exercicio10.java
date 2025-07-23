@@ -1,3 +1,4 @@
+package Fundamentos.exercicios;
 public class exercicio10 {
     public static void main(String[] args) {
         int diaDaSemana = 3;

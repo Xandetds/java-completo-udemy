@@ -1,3 +1,4 @@
+package Fundamentos.exercicios;
 public class exercicio02 {
     public static void main(String[] args){
 byte idade = 25;

@@ -1,3 +1,4 @@
+package Fundamentos.exercicios;
 public class exercicio04 {
     public static void main(String[] args) {
         int quantidadeFarinha = 5;

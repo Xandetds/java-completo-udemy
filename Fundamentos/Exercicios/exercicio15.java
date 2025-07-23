@@ -1,3 +1,4 @@
+package Fundamentos.exercicios;
 public class exercicio15 {
     public static void main(String[] args) {
         int nota1 = 5;

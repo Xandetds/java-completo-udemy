@@ -1,3 +1,4 @@
+package Fundamentos.exercicios;
 public class exercicio13 {
     public static void main(String[] args) {
         String mes = "Fevereiro";

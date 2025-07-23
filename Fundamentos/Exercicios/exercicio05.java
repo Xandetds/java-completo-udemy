@@ -1,3 +1,4 @@
+package Fundamentos.exercicios;
 public class exercicio05 {
     public static void main(String[] args) {
         double largura = 5.5d;

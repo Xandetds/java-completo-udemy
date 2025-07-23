@@ -1,3 +1,4 @@
+package Fundamentos.exercicios;
 public class exercicio18 {
     public static void main(String[] args) {
         var soma = 0;

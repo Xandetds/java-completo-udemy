@@ -1,3 +1,4 @@
+package Fundamentos.exercicios;
 public class exercicio11 {
     public static void main(String[] args) {
         var nivel = 1;

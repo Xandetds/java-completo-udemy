@@ -1,3 +1,4 @@
+package Fundamentos.exercicios;
 public class exercicio21 {
     public static void main(String[] args) {
         var codigoDeSaida = 9;

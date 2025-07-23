@@ -1,3 +1,4 @@
+package Fundamentos.exercicios;
 public class exercicio08 {
     public static void main(String[] args) {
         var contador = 1;
