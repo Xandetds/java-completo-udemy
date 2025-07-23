@@ -1,10 +1,10 @@
-package poo.exerciciospackage.exercicio08;
+package poo.exerciciostiposdeclasse.exercicio04;
 
-public class Funcionario8 {
+public class Funcionario7 {
     private String nome;
     private double salario;
 
-    public Funcionario8(String nomeInit, double salarioInit) {
+    public Funcionario7(String nomeInit, double salarioInit) {
         nome = nomeInit;
         salario = salarioInit;
     }
@@ -16,7 +16,7 @@ public class Funcionario8 {
         salario += aumento;
     }
 
-    public void aumentarSalario(int porcentagem){
-        salario += salario * porcentagem / 100.0;
+    public void alterarQualquerSalario(Funcionario7 funcionario7, double novoSalario) {
+        funcionario7.salario = novoSalario;
     }
 }

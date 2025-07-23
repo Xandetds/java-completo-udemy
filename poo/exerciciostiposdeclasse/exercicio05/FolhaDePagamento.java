@@ -1,4 +1,4 @@
-package poo.exerciciospackage.exercicio08;
+package poo.exerciciostiposdeclasse.exercicio05;
 
 class FolhaDePagamento {
     public static void main(String[] args) {

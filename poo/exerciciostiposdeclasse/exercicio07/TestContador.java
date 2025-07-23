@@ -1,4 +1,4 @@
-package poo.exerciciostiposdeclasse.exercicio10;
+package poo.exerciciostiposdeclasse.exercicio07;
 
 class Contador {
 

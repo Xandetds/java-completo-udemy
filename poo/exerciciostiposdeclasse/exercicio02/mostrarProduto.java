@@ -1,4 +1,4 @@
-package poo.exerciciospackage.exercicio05;
+package poo.exerciciostiposdeclasse.exercicio02;
 
 public class mostrarProduto {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package poo.exerciciospackage.exercicio06;
+package poo.exerciciostiposdeclasse.exercicio03;
 
 public class Funcionario6 {
     private String nome;

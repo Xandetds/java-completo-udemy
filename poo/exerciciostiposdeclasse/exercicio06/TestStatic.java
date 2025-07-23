@@ -1,4 +1,4 @@
-package poo.exerciciospackage.exercicio09;
+package poo.exerciciostiposdeclasse.exercicio06;
 
 public class TestStatic {
     public static void exibirValor(int valor) {
