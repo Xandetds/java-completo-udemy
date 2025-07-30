@@ -1,6 +1,6 @@
-package poo.generics;
+package poo.generics.exercicio01;
 
-public class exercicio01<T>{
+public class CaixaDeCoisas<T>{
     private T coisaNaCaixa;
 
     public void guardar(T coisa){
@@ -12,7 +12,7 @@ public class exercicio01<T>{
     }
 
     public static void main(String [] args){
-        exercicio01<String> CaixaDeTexto = new exercicio01<>();
+        CaixaDeCoisas<String> CaixaDeTexto = new CaixaDeCoisas<>();
 
         CaixaDeTexto.guardar("Bola de fut");
 

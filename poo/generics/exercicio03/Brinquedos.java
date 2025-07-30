@@ -1,4 +1,4 @@
-package poo.generics;
+package poo.generics.exercicio03;
 
 class Carrinho {
     private String modelo;
@@ -24,7 +24,7 @@ class Boneco{
     }
 }
 
-public class exercicio03{
+public class Brinquedos{
     public static void main(String [] args){
         Carrinho c = new Carrinho("Hot wheels");
         Boneco b = new Boneco("Ben 10");

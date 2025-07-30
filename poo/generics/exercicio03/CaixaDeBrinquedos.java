@@ -1,6 +1,6 @@
-package poo.generics;
+package poo.generics.exercicio03;
 
-public class exercicio04 {
+public class CaixaDeBrinquedos {
     private Object coisaNaCaixa;
 
     public void guardar(Object coisa){
@@ -12,10 +12,10 @@ public class exercicio04 {
     }
 
     public static void main(String [] args){
-        exercicio04 caixaDeCarrinhos = new exercicio04();
+        CaixaDeBrinquedos caixaDeCarrinhos = new CaixaDeBrinquedos();
         caixaDeCarrinhos.guardar(new Carrinho("Hot wheels"));
 
-        exercicio04 caixaDeBoneco = new exercicio04();
+        CaixaDeBrinquedos caixaDeBoneco = new CaixaDeBrinquedos();
         caixaDeBoneco.guardar(new Boneco("ben 10"));
 
         if (caixaDeCarrinhos.pegar() instanceof Carrinho){
