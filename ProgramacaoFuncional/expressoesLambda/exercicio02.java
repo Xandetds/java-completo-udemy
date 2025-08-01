@@ -1,4 +1,4 @@
-package ProgramacaoFuncional.expressoes_lambda;
+package ProgramacaoFuncional.expressoesLambda;
 
 import java.util.*;
 
