@@ -36,3 +36,7 @@ build/
 # Sistema Operacional
 .DS_Store
 Thumbs.db
+
+#arquivo txt da seção IO
+meuArquivo.txt
+
